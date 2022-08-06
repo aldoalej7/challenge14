@@ -19,6 +19,7 @@
         "express-session": "^1.17.1",
         "handlebars": "^4.7.6",
         "mysql2": "^2.2.5",
+        "require": "^2.4.20",
         "sequelize": "^6.3.5"
     }
 }
